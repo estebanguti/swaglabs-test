@@ -1,0 +1,5 @@
+base:
+  url: https://www.saucedemo.com
+
+testdata:
+  login_users: @project.basedir@/src/main/resources/testdata/users_login.json
